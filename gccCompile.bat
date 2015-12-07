@@ -1,0 +1,1 @@
+gcc -c -m32 DataStructure.c

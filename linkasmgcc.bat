@@ -1,0 +1,1 @@
+gcc Agenda.obj DataStructure.o -m32 -o Agenda.exe

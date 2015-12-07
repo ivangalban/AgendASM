@@ -1,0 +1,1 @@
+nasm -f win32 Agenda.asm
