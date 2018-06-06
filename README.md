@@ -208,6 +208,8 @@ Author
 
 Iván Galbán Smith <ivan.galban.smith@gmail.com>
 
+Raydel E. Alonso Baryolo <raydelalonsobaryolo@gmail.com>
+
 2nd year of Computer Science
 
 University of Havana, 2015
