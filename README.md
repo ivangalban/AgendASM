@@ -4,6 +4,12 @@ El proyecto consiste en la implementación de una agenda electrónica en lenguaj
 
 A continuación se describen generalidades del proyecto y más adelante, el conjunto de funcionalidades.
 
+## Ejecutar en Windows
+
+~~~bash
+RUN.cmd
+~~~
+
 ## Funcionalidades
 
 A continuación se describen las funcionalidades que ofrece el programa.
